@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+<title>título da sua história</title>
+</head>
+<body>
+<main>
+<div class="passo ativo" id="passo-0">
+<p>Mary Winchester acaba fazendo um pacto sem saber e isso dá abertura para azazel o demônio dos olhos amarelos,marcar o bebê esse é o ponto de partida de toda a trama.</p>
+<button class="btn-proximo" data-proximo="1"> A tragédia </button>
+<button class="btn-proximo" data-proximo="2"> O começo </button>
+</div>
+</main>
+
+<div class="passo ativo" id="passo-1">
+<p>Quando  Sam ainda era bebê Mary é morta por Azazel. John o pai ficou obcecado por vingança e cria Sam e Dean no mundo da caça.</p>
+<button class="btn-proximo" data-proximo="1"> A luta contra Azazel</button>
+<button class="btn-proximo" data-proximo="2"> A chegada dos anjos </button>
+</div>
+</main>
+
+<div class="passo ativo" id="passo-1">
+<p></p>
+<button class="btn-proximo" data-proximo="1"> A luta contra Azazel</button>
+<button class="btn-proximo" data-proximo="2"> A chegada dos anjos </button>
+</div>
+</main>
+
+
+
+</body>
+</html>
